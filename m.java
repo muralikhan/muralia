@@ -1,4 +1,6 @@
-        class array_output {
+import java.io.*;
+import java.util.*; 
+class array_output {
 
             public static void main(String args[]) 
 
